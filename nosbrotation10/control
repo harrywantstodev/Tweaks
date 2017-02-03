@@ -1,0 +1,9 @@
+Package: com.harrywantstodev.nosbrotation10
+Name: NoSBRotation10
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: harrywantstodev
+Author: harrywantstodev
+Section: Tweaks

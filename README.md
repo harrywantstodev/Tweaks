@@ -34,10 +34,7 @@ make package install
 ## 
 
 
-### Break down into end to end tests
+### NoPullDownSpotlight
 
-Explain what these tests test and why
+Disable Pulldown to Spotlight
 
-```
-Give an example
-```

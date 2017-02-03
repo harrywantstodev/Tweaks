@@ -1,0 +1,9 @@
+Package: com.harrywantstodev.statustimemod
+Name: StatusTimeMod
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Change the format of the status bars clock.
+Maintainer: harrywantstodev
+Author: harrywantstodev
+Section: Tweaks

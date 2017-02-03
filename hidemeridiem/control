@@ -1,0 +1,9 @@
+Package: com.harrywantstodev.hidemeridiem
+Name: HideMeridiem
+Depends: mobilesubstrate
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Hide AM and PM from status bar.
+Maintainer: harrywantstodev
+Author: harrywantstodev
+Section: Tweaks

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+<key>label</key>
+<string>Turn on/off</string>
+</dict>
+<dict>
+<key>cell</key>
+<string>PSSwitchCell</string>
+<key>default</key>
+<true/>
+<key>defaults</key>
+<string>com.harrywantstodev.statustimemod</string>
+<key>key</key>
+<string>isEnabled</string>
+<key>label</key>
+<string>Enable</string>
+</dict>
+<dict>
+	<key>cell</key>
+	<string>PSButtonCell</string>
+	<key>label</key>
+	<string>Respring</string>
+	<key>action</key>
+	<string>respring</string>
+</dict>
+<dict>
+<key>cell</key>
+<string>PSGroupCell</string>
+<key>label</key>
+<string>Format</string>
+</dict>
+<dict>
+<key>cell</key>
+<string>PSLinkListCell</string>
+<key>defaults</key>
+<string>com.harrywantstodev.statustimemod</string>
+<key>detail</key>
+<string>PSListItemsController</string>
+<key>key</key>
+<string>isTime</string>
+<key>label</key>
+<string>Choose a format</string>
+<key>validTitles</key>
+<array>
+<string>Sunday, 15:25</string>
+<string>Sunday, 3:25 PM</string>
+<string>15:25</string>
+<string>3:25</string>
+</array>
+<key>validValues</key>
+<array>
+<string>eeee, H:mm</string>
+<string>eeee, h:mm a</string>
+<string>H:mm</string>
+<string>h:mm</string>
+</array>
+</dict>
+</array>
+<key>title</key>
+<string>StatusTimeMod</string>
+</dict>
+</plist>

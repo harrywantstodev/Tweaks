@@ -61,3 +61,7 @@ Pinch to close folders
 ### StatusTimeMod
 
 Mod the format of time in status bar
+
+### NoLSPadLock
+
+Remove PadLock from Lockscreen statusbar

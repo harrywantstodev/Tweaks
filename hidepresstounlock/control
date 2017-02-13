@@ -1,0 +1,9 @@
+Package: com.harrywantstodev.hidepresstounlock
+Name: HidePressToUnlock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide Press Home To Unlock on iOS 10
+Maintainer: harrywantstodev
+Author: harrywantstodev
+Section: Tweaks

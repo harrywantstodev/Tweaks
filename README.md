@@ -65,3 +65,7 @@ Mod the format of time in status bar
 ### NoLSPadLock
 
 Remove PadLock from Lockscreen statusbar
+
+### HidePressToUnlock
+
+Hide "Press Home To Unlock" on iOS 10
